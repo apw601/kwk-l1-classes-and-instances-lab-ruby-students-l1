@@ -22,4 +22,9 @@ class Dog
    def dog_name
     @this_dogs_name_is_lassie
   end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
+
 end
