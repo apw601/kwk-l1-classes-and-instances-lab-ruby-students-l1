@@ -12,5 +12,5 @@ fido = Person.new
 fido.name
 snoopy = Person.new
 snoopy.name
-lassie = Dog.new
+lassie = Person.new
 lassie.name
