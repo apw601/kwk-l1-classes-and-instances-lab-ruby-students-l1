@@ -24,10 +24,10 @@ class Dog
   end
 
 fido = Dog.new
-fido.dog_name = "Fido"
+fido.name
 snoopy = Dog.new
-snoopy.dog_name = "Snoopy"
+snoopy.name
 lassie = Dog.new
-lassie.dog_name = "Lassie"
+lassie.name
 
 end
