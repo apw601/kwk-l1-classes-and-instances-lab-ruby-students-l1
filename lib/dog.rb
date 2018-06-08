@@ -24,6 +24,7 @@ class Dog
   end
 
 fido = Dog.new
+fido.dog_name = "Fido"
 snoopy = Dog.new
 lassie = Dog.new
 
