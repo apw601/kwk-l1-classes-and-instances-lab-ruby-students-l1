@@ -8,9 +8,7 @@ class Person
   end
 end
 
-fido = Person.new
-fido.name
-snoopy = Person.new
-snoopy.name
-lassie = Person.new
-lassie.name
+adele_goldberg = Person.new
+adele_goldberg.name
+alan_kay = Person.new
+alan_kay.name
