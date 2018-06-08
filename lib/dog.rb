@@ -1,25 +1,25 @@
 class Dog
-  def dog_name=(fido)
+  def name=(fido)
     @this_dogs_name_is_fido
   end
   
-  def dog_name
+  def name
     @this_dogs_name_is_fido
   end
   
-  def dog_name=(snoopy)
+  def name=(snoopy)
     @this_dogs_name_is_snoopy
   end
   
-   def dog_name
+   def name
     @this_dogs_name_is_snoopy
   end
   
-  def dog_name=(lassie)
+  def name=(lassie)
     @this_dogs_name_is_lassie
   end
   
-   def dog_name
+   def name
     @this_dogs_name_is_lassie
   end
 end
